@@ -1,0 +1,22 @@
+{
+  "name": "gokhan-zabun",
+  "version": "1.0.0",
+  "description": "deneme,node",
+  "main": "index.js",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "gökhan zabun",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gzabun/gokhan-zabun.git"
+  }
+}
